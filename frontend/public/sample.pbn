@@ -1,0 +1,7 @@
+% PBN 2.1
+% Sample deal for Double Dummy Solver
+[Event "Practice"]
+[Deal "N:QJ6.K652.J85.T98 A843.AQJ97.Q6.K4 K72.T83.AT93.QJ7 T95.4.K742.A6532"]
+[Declarer "S"]
+[Contract "4H"]
+[Trump "H"]
